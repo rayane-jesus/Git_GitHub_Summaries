@@ -27,7 +27,7 @@ git push: envia as alterações feitas para o repositório remoto.
 git init: transforma um diretório em um repositório git.
 ````
 ````
-git remote add origin + URL: conecta um repositório local com o repositório remoto.
+git remote add origin + URL: conecta um repositório local com um repositório remoto.
 ````
 ````
 mkdir + nomedepreferencia: serve para criar um diretório.
